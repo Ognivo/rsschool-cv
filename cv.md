@@ -1,11 +1,11 @@
 ![Photo of human](https://cdnn21.img.ria.ru/images/92455/99/924559904_145:0:2422:1708_1920x0_80_0_0_6926c90cf66d8e4dca9bcad638e7099b.jpg "My photo")
 # Nikita Loshkarev
 
-### Contact information
-**Phone:** +375 29 38 555 60
-**Email:** 3855560@mail.ru
-**Telegram:** @Nikita
-**Discord:** agusha
+### Contact information:
+* **Phone:** +375 29 38 555 60
+* **Email:** 3855560@mail.ru
+* **Telegram:** @Nikita
+* **Discord:** agusha
 ===
 ### **About me:**
 Education:
