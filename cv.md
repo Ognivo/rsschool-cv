@@ -6,7 +6,7 @@
 * **Email:** 3855560@mail.ru
 * **Telegram:** @Nikita
 * **Discord:** agusha
-===
+
 ### **About me:**
 Education:
 Bachelor's Degree in Marketing and Programming, Belarusian State University of Informatics and Radioelectronics (BSUIR)
@@ -24,7 +24,7 @@ Currently, I am eager to shift my professional focus entirely towards frontend d
 * CSS
 * Git (Basic)
 * JavaScript (Basic)
-===
+
 
 ### Code example:
 ```
