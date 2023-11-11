@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ognivo.github.io/rsschool-cv/cv
