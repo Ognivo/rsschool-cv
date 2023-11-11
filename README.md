@@ -1,1 +1,1 @@
-https://Ognivo.github.io/rsschool-cv/cv
+https://ognivo.github.io/rsschool-cv/
