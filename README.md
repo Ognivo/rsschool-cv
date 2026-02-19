@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ognivo.github.io/rsschool-cv/
